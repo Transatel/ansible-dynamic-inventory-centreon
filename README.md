@@ -114,7 +114,7 @@ $ # ansible >= 2.4
 $ ansible-inventory -i /etc/ansible/centreon.py --list-hosts
 
 $ # ansible < 2.4
-$ ansible '*' --list-hosts -i /etc/ansible/centreon.py --list-hosts
+$ ansible '*' -i /etc/ansible/centreon.py --list-hosts
 ```
 
 #### Set as default inventory (optionnal)
