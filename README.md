@@ -10,7 +10,7 @@ There is no restiction on where the later can be installed.
 
 ## Implementation details
 
-It relies on [Transatel/lib-eloquent-centreon](https://github.com/Transatel/lib-eloquent-centreon) for accessing Centreon's dataabses and calling its [internal](https://github.com/centreon/centreon/tree/master/www/include/common/webServices/rest) REST API.
+It relies on [Transatel/lib-eloquent-centreon](https://github.com/Transatel/lib-eloquent-centreon) for accessing Centreon's databases and calling its [internal](https://github.com/centreon/centreon/tree/master/www/include/common/webServices/rest) REST API.
 
 ### Caching
 
